@@ -1,6 +1,14 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,200&display=swap');
+
+
 @media screen and (max-width: 768px) {
   /* Estilos para dispositivos com largura máxima de 768 pixels */
   /* Ajuste o layout conforme necessário */
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
 }
 #saldo{
     text-align: center;

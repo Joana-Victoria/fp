@@ -1,3 +1,8 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
 #fundo{
     background-color: #101010;
 }
@@ -68,7 +73,7 @@
 #botao3{
     text-align: center;
 }
-  #botao4 {
+#botao4 {
     text-align: center;
     background-color: #FED403;
     border-color: #FED403;
@@ -90,3 +95,7 @@
     text-align-last: center;
 }
 
+hr.new1 {
+  border-top: 3px solid yellow;
+  width: 110%;
+}
